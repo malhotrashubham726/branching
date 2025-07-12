@@ -1,1 +1,1 @@
-It is a file 1 created from first *modified* branch
+It is a file 1 created from first *modified by secondbranch conflict resolved* branch
